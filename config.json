@@ -76,6 +76,14 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+     },
+    "ikun": {
+      "api": "http://www.饭太硬.net/tv",
+      "name": "饭太硬"
+     },
+    "ikun": {
+      "api": "http://肥猫.com",
+      "name": "肥猫"
     }
   }
 }
